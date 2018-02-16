@@ -1,0 +1,7 @@
+{
+  "name": "purushotamrai/colorpicker",
+  "type": "drupal-library",
+  "description": "Eyecon Colorpicker.",
+  "keywords": ["colorpicker","eyecon","drupal-library","jquery"],
+  "homepage": "http://www.eyecon.ro/colorpicker"
+}
